@@ -3,7 +3,7 @@ from tkinter import filedialog
 from PIL import Image, ImageTk
 from imagemanager import ImageManager
 
-ctk.set_appearance_mode('Dark')
+ctk.set_appearance_mode('Light')
 ctk.set_default_color_theme("green")
 
 class MainWindow(ctk.CTk):
